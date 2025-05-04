@@ -1,7 +1,7 @@
 # DS
 
 
-Assignment 2:Arithmeticops
+Assignment 2:Arithmeticops & stringOps
 javac ServerIntf.java
 javac ServerImpl.java
 javac Server.java
